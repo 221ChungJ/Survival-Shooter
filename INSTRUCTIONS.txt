@@ -1,0 +1,9 @@
+Hello and welcome to my game. It doesn't have a name yet, so feel free to come up with one!
+
+The soldier with the gun is the main character. Control him using the arrow keys (left and right) and use the space bar to shoot.
+You're only allowed to fire your gun while standing still, not while running. 
+Zombies will spawn on different sides of the screen. 
+Each zombie is worth one point.
+Try to accumulate as many points as possible by shooting the zombies before getting killed. 
+Press the esc key to restart the level once you die. 
+There are barriers on either end of the level so you can't run forever!
